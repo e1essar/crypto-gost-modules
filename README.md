@@ -1,6 +1,6 @@
 # CRYPTO-GOST VPN Prototype
 
-Демонстрационный «VPN-канал» на основе обмена ClientHello/ServerHello и зашифрованных сообщений с алгоритмами Кузнечик и Магма (OpenSSL ENGINE).
+Демонстрационный «VPN-канал» на основе обмена ClientHello/ServerHello и зашифрованных сообщений с алгоритмами Кузнечик и Магма (OpenSSL GOST-ENGINE).
 
 ## Зависимости
 
